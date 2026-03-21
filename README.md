@@ -1,9 +1,8 @@
-Tech Stack:
+UI Test Automation Phonebook(web) Project
 
-Java
+Stack: Java, Selenium, TestNG, Gradle
 
-Selenium WebDriver
+This project contains automated UI tests using Page Object Model.
 
-TestNG
-
-Maven / Gradle
+Run:
+gradle test
