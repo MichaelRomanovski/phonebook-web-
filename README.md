@@ -1,6 +1,6 @@
 UI Test Automation – Phonebook Web Project
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Java  
 - Selenium WebDriver  
 - TestNG  
@@ -8,7 +8,7 @@ UI Test Automation – Phonebook Web Project
 
 ---
 
-## 📖 Project Description
+##  Project Description
 
 This project contains automated UI tests for a Phonebook web application.  
 It covers core user workflows such as contact management and authentication.
@@ -17,7 +17,7 @@ The framework is built using the Page Object Model (POM) design pattern, ensurin
 
 ---
 
-## ✅ Test Coverage
+ Test Coverage:
 
 - User registration and login  
 - Add new contact  
@@ -27,7 +27,7 @@ The framework is built using the Page Object Model (POM) design pattern, ensurin
 
 ---
 
-## ⚙️ Framework Features
+##  Framework Features
 
 - Page Object Model (POM) architecture  
 - Reusable page components  
@@ -37,7 +37,7 @@ The framework is built using the Page Object Model (POM) design pattern, ensurin
 
 ---
 
-## ▶️ How to Run Tests
+##  How to Run Tests
 
 1. Clone the repository  
 2. Open the project in your IDE  
@@ -53,7 +53,8 @@ Building a scalable automation framework
 Writing maintainable test cases
 Applying best practices in test design
 Working with modern automation tools
-🚀 Author
+
+ Author:
 
 Michael Pankov
 QA Engineer (Manual / Automation)
