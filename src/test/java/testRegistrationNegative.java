@@ -18,10 +18,12 @@ public void go_to_login(){
             return;
 
         new LoginRegistrationPage(app.wd)
-                .type_field_email_and_password(user.getEmail(), user.getPassword());
-        new LoginRegistrationPage(app.wd).click_on_registration_btn();
-        new LoginRegistrationPage(app.wd).is_allert_present(expectedMessage);
+                .type_field_email_and_password(user.getEmail(), user.getPassword()).click_on_registration_btn();
+        Assert.assertTrue(new LoginRegistrationPage(app.wd).is_allert_present(expectedMessage));
         Assert.assertTrue( new LoginRegistrationPage(app.wd).is_current_page());
+      //  new LoginRegistrationPage(app.wd).click_on_registration_btn();
+        //new LoginRegistrationPage(app.wd).is_allert_present(expectedMessage);
+
 
 
     }

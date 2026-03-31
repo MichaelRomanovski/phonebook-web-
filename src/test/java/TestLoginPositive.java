@@ -3,7 +3,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners(NGListener.class)
-public class TestLoginPagePositive extends TestBase {
+public class TestLoginPositive extends TestBase {
 
     @Test
     public void testLogin(){

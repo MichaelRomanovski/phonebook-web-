@@ -26,18 +26,20 @@ public class LoginRegistrationPage extends HelperUser {
     @FindBy(xpath = "//input[@name='password']")
     private WebElement password_field;
 
-    public void type_field_email_and_password(String email, String password) {
+    public LoginRegistrationPage type_field_email_and_password(String email, String password) {
         email_field.click();
         email_field.clear();
         email_field.sendKeys(email);
         password_field.click();
         password_field.clear();
         password_field.sendKeys(password);
+        return this;
     }
 
-    public void click_on_registration_btn() {
+    public AddContact_page click_on_registration_btn() {
         registration_button.click();
         pause(4000);
+        return new AddContact_page(driver);
     }
 
     public void click_on_LOGIN_btn() {
