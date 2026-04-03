@@ -27,7 +27,8 @@ public class testRegistrationNegative extends TestBase{
             return;
 
         new LoginRegistrationPage(app.wd)
-                .type_field_email_and_password(user.getEmail(), user.getPassword()).click_on_registration_btn();
+                .type_field_email_and_password(user.getEmail(), user.getPassword()).
+                click_on_registration_btn();
         Assert.assertTrue(new LoginRegistrationPage(app.wd).is_allert_present(expectedMessage));
         Assert.assertTrue( new LoginRegistrationPage(app.wd).is_current_page());
 

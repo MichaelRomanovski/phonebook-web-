@@ -1,193 +1,117 @@
-00:10:50.433 [Test worker] INFO  NGListener - Test started
-00:10:50.474 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:10:50.474 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:10:50.474 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:10:50.474 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:10:50.474 [Test worker] INFO  TestBase - =====================================================================================================
-00:10:50.489 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:10:50.492 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:10:55.436 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:10:55.438 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:10:55.439 [Test worker] INFO  TestBase - =====================================================================================================
-00:10:55.444 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:10:55.448 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:00.147 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:00.150 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:00.154 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:00.168 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:11:00.178 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:05.250 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:05.259 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:05.261 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:05.282 [Test worker] INFO  NGListener - Test finished
-00:11:19.375 [Test worker] INFO  NGListener - Test started
-00:11:19.430 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:11:19.430 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:19.439 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:19.441 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:19.441 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:19.446 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:11:19.447 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:24.578 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:24.579 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:24.581 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:24.589 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:11:24.593 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:29.331 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:29.334 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:29.336 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:29.342 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:11:29.342 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:11:34.047 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:11:34.048 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:11:34.052 [Test worker] INFO  TestBase - =====================================================================================================
-00:11:34.064 [Test worker] INFO  NGListener - Test finished
-00:18:47.611 [Test worker] INFO  NGListener - Test started
-00:18:47.655 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:18:47.658 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:18:47.658 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:18:47.658 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:18:47.658 [Test worker] INFO  TestBase - =====================================================================================================
-00:18:47.667 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:18:47.667 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:18:52.616 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:18:52.617 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:18:52.618 [Test worker] INFO  TestBase - =====================================================================================================
-00:18:52.620 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:18:52.621 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:18:57.435 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:18:57.448 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:18:57.450 [Test worker] INFO  TestBase - =====================================================================================================
-00:18:57.461 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:18:57.465 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:19:02.341 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:19:02.346 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:19:02.350 [Test worker] INFO  TestBase - =====================================================================================================
-00:19:02.361 [Test worker] INFO  NGListener - Test finished
-00:20:21.847 [Test worker] INFO  NGListener - Test started
-00:20:21.883 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:20:21.883 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:20:21.883 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:20:21.893 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:20:21.893 [Test worker] INFO  TestBase - =====================================================================================================
-00:20:21.893 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:20:21.893 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:20:26.822 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:20:26.824 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:20:26.826 [Test worker] INFO  TestBase - =====================================================================================================
-00:20:26.828 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:20:26.830 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:20:31.561 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:20:31.562 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:20:31.563 [Test worker] INFO  TestBase - =====================================================================================================
-00:20:31.574 [Test worker] INFO  NGListener - Test finished
-00:24:00.271 [Test worker] INFO  NGListener - Test started
-00:24:00.320 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:24:00.320 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:24:00.325 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:24:00.325 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:24:00.325 [Test worker] INFO  TestBase - =====================================================================================================
-00:24:00.333 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:24:00.336 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:24:05.351 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:24:05.353 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:24:05.354 [Test worker] INFO  TestBase - =====================================================================================================
-00:24:05.356 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:24:05.358 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:24:10.123 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:24:10.129 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:24:10.132 [Test worker] INFO  TestBase - =====================================================================================================
-00:24:10.142 [Test worker] INFO  NGListener - Test finished
-00:29:42.917 [Test worker] INFO  NGListener - Test started
-00:29:42.957 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:29:42.957 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:29:42.965 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:29:42.973 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:29:42.973 [Test worker] INFO  TestBase - =====================================================================================================
-00:29:42.975 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:29:42.975 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:29:47.914 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:29:47.915 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:29:47.916 [Test worker] INFO  TestBase - =====================================================================================================
-00:29:47.928 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:29:47.928 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:29:52.630 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:29:52.635 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:29:52.640 [Test worker] INFO  TestBase - =====================================================================================================
-00:29:52.656 [Test worker] INFO  NGListener - Test finished
-00:34:11.416 [Test worker] INFO  NGListener - Test started
-00:34:11.443 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:34:11.626 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:34:11.633 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:34:11.636 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:34:11.637 [Test worker] INFO  TestBase - =====================================================================================================
-00:34:11.639 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:34:11.859 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:34:16.777 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:34:16.788 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:34:16.792 [Test worker] INFO  TestBase - =====================================================================================================
-00:34:16.796 [Test worker] INFO  TestBase - Started test ---> testRegistration
-00:34:16.946 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-00:34:21.650 [Test worker] INFO  NGListener - Success test ---> testRegistration
-00:34:21.653 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-00:34:21.654 [Test worker] INFO  TestBase - =====================================================================================================
-00:34:21.669 [Test worker] INFO  NGListener - Test finished
-00:44:15.869 [Test worker] INFO  NGListener - Test started
-00:44:15.907 [Test worker] INFO  NGListener - Failure  test ---> org.testng.internal.reflect.MethodMatcherException: 
-[public void TestLoginPostitiveTests.testLogin(object_model.User_model)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: testLogin([Parameter{index=0, type=object_model.User_model, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) positive,(object_model.User_model) User_model(email=ftoгfpsd@gmail.com, password=asdsbzsd@M2),(java.lang.String) added contact]
-00:44:15.912 [Test worker] INFO  NGListener - Test finished
-00:44:55.551 [Test worker] INFO  NGListener - Test started
-00:44:55.589 [Test worker] INFO  NGListener - Failure  test ---> org.testng.internal.reflect.MethodMatcherException: 
-[public void TestLoginPostitiveTests.testLogin(object_model.User_model)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: testLogin([Parameter{index=0, type=object_model.User_model, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) positive,(object_model.User_model) User_model(email=ftoгfpsd@gmail.com, password=asdsbzsd@M2),(java.lang.String) added contact]
-00:44:55.599 [Test worker] INFO  NGListener - Test finished
-00:49:57.562 [Test worker] INFO  NGListener - Test started
-00:49:57.652 [Test worker] INFO  NGListener - Failure  test ---> org.testng.internal.reflect.MethodMatcherException: 
-[public void TestLoginPostitiveTests.testLogin(java.lang.String,object_model.User_model)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: testLogin([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=object_model.User_model, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) positive,(object_model.User_model) User_model(email=ftoгfpsd@gmail.com, password=asdsbzsd@M2),(java.lang.String) ]
-00:49:57.682 [Test worker] INFO  NGListener - Test finished
-00:55:12.193 [Test worker] INFO  NGListener - Test started
-00:55:12.263 [Test worker] INFO  TestBase - Started test ---> testLogin
-00:55:12.267 [Test worker] INFO  NGListener - Start of the test ---> testLogin
-00:55:12.273 [Test worker] INFO  TestBase - Finished test ---> testLogin
-00:55:12.273 [Test worker] INFO  TestBase - =====================================================================================================
-00:55:12.279 [Test worker] INFO  NGListener - Test finished
-00:55:59.958 [Test worker] INFO  NGListener - Test started
-00:56:00.039 [Test worker] INFO  TestBase - Started test ---> testLogin
-00:56:00.048 [Test worker] INFO  NGListener - Start of the test ---> testLogin
-00:56:00.053 [Test worker] INFO  TestBase - Finished test ---> testLogin
-00:56:00.053 [Test worker] INFO  TestBase - =====================================================================================================
-00:56:00.062 [Test worker] INFO  NGListener - Test finished
-00:58:55.291 [Test worker] INFO  NGListener - Test started
-00:58:55.351 [Test worker] INFO  TestBase - Started test ---> testLogin
-00:58:55.356 [Test worker] INFO  NGListener - Start of the test ---> testLogin
-00:58:55.356 [Test worker] INFO  TestBase - Finished test ---> testLogin
-00:58:55.356 [Test worker] INFO  TestBase - =====================================================================================================
-00:58:55.363 [Test worker] INFO  NGListener - Test finished
-01:03:39.487 [Test worker] INFO  NGListener - Test started
-01:03:39.561 [Test worker] INFO  TestBase - Started test ---> testLogin
-01:03:39.568 [Test worker] INFO  NGListener - Start of the test ---> testLogin
-01:03:39.572 [Test worker] INFO  TestBase - Finished test ---> testLogin
-01:03:39.572 [Test worker] INFO  TestBase - =====================================================================================================
-01:03:39.580 [Test worker] INFO  NGListener - Test finished
-01:06:01.977 [Test worker] INFO  NGListener - Test started
-01:06:02.157 [Test worker] INFO  TestBase - Started test ---> testRegistration
-01:06:02.167 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-01:06:02.171 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-01:06:02.173 [Test worker] INFO  TestBase - =====================================================================================================
-01:06:02.180 [Test worker] INFO  TestBase - Started test ---> testRegistration
-01:06:02.182 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-01:06:02.186 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-01:06:02.188 [Test worker] INFO  TestBase - =====================================================================================================
-01:06:02.188 [Test worker] INFO  TestBase - Started test ---> testRegistration
-01:06:02.197 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
-01:06:02.211 [Test worker] INFO  TestBase - Finished test ---> testRegistration
-01:06:02.213 [Test worker] INFO  TestBase - =====================================================================================================
-01:06:02.219 [Test worker] INFO  NGListener - Test finished
+19:03:26.312 [Test worker] INFO  NGListener - Test started
+19:03:26.419 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:03:26.423 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:03:26.423 [Test worker] INFO  NGListener - Success test ---> testlogin
+19:03:26.435 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:03:26.435 [Test worker] INFO  TestBase - =====================================================================================================
+19:03:26.438 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:03:26.438 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:03:36.538 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9801049be9c0faee8268d0822679018, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61467}, goog:processID: 18600, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61467/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c9801049be9c0faee8268d0822679018
+19:03:36.551 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:03:36.551 [Test worker] INFO  TestBase - =====================================================================================================
+19:03:36.559 [Test worker] INFO  NGListener - Test finished
+19:05:07.976 [Test worker] INFO  NGListener - Test started
+19:05:08.074 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:05:08.077 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:05:08.083 [Test worker] INFO  NGListener - Success test ---> testlogin
+19:05:08.083 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:05:08.089 [Test worker] INFO  TestBase - =====================================================================================================
+19:05:08.092 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:05:08.093 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:05:18.177 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [914a5f74224eb64e29681cd3d9f8ff50, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54999}, goog:processID: 22684, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54999/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 914a5f74224eb64e29681cd3d9f8ff50
+19:05:18.183 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:05:18.183 [Test worker] INFO  TestBase - =====================================================================================================
+19:05:18.187 [Test worker] INFO  NGListener - Test finished
+19:07:25.284 [Test worker] INFO  NGListener - Test started
+19:07:25.363 [Test worker] INFO  TestBase - Started test ---> testLogin
+19:07:35.612 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+19:07:40.905 [Test worker] INFO  NGListener - Success test ---> testLogin
+19:07:40.909 [Test worker] INFO  TestBase - Finished test ---> testLogin
+19:07:40.910 [Test worker] INFO  TestBase - =====================================================================================================
+19:07:40.915 [Test worker] INFO  TestBase - Started test ---> testLogin
+19:07:41.298 [Test worker] INFO  NGListener - Start of the test ---> testLogin
+19:07:41.300 [Test worker] INFO  NGListener - Success test ---> testLogin
+19:07:41.306 [Test worker] INFO  TestBase - Finished test ---> testLogin
+19:07:41.309 [Test worker] INFO  TestBase - =====================================================================================================
+19:07:41.329 [Test worker] INFO  NGListener - Test finished
+19:08:38.457 [Test worker] INFO  NGListener - Test started
+19:08:38.505 [Test worker] INFO  TestBase - Started test ---> testRegistration
+19:08:38.669 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+19:08:38.684 [Test worker] INFO  NGListener - Success test ---> testRegistration
+19:08:38.696 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+19:08:38.701 [Test worker] INFO  TestBase - =====================================================================================================
+19:08:38.707 [Test worker] INFO  TestBase - Started test ---> testRegistration
+19:08:38.884 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+19:08:49.012 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [daa425f74cab70ca77fe388f73563d5f, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63334}, goog:processID: 1764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63334/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: daa425f74cab70ca77fe388f73563d5f
+19:08:49.021 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+19:08:49.021 [Test worker] INFO  TestBase - =====================================================================================================
+19:08:49.021 [Test worker] INFO  TestBase - Started test ---> testRegistration
+19:08:49.186 [Test worker] INFO  NGListener - Start of the test ---> testRegistration
+19:08:59.264 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [daa425f74cab70ca77fe388f73563d5f, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63334}, goog:processID: 1764, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63334/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: daa425f74cab70ca77fe388f73563d5f
+19:08:59.266 [Test worker] INFO  TestBase - Finished test ---> testRegistration
+19:08:59.268 [Test worker] INFO  TestBase - =====================================================================================================
+19:08:59.276 [Test worker] INFO  NGListener - Test finished
+19:11:31.809 [Test worker] INFO  NGListener - Test started
+19:11:31.902 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:11:31.902 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:11:31.918 [Test worker] INFO  NGListener - Success test ---> testlogin
+19:11:31.920 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:11:31.922 [Test worker] INFO  TestBase - =====================================================================================================
+19:11:31.926 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:11:31.928 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:11:42.014 [Test worker] INFO  NGListener - Failure  test ---> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: chrome=146.0.7680.165)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30b67ead5f7981884a282b431afc2de3, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 146.0.7680.165, chrome: {chromedriverVersion: 145.0.7632.77 (da516187054a..., userDataDir: C:\Users\simon\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63975}, goog:processID: 27044, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63975/devtoo..., se:cdpVersion: 146.0.7680.165, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30b67ead5f7981884a282b431afc2de3
+19:11:42.028 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:11:42.028 [Test worker] INFO  TestBase - =====================================================================================================
+19:11:42.033 [Test worker] INFO  NGListener - Test finished
+19:15:56.133 [Test worker] INFO  NGListener - Test started
+19:15:56.213 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:15:56.222 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:15:56.263 [Test worker] INFO  NGListener - Success test ---> testlogin
+19:15:56.265 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:15:56.265 [Test worker] INFO  TestBase - =====================================================================================================
+19:15:56.265 [Test worker] INFO  TestBase - Started test ---> testlogin
+19:15:56.265 [Test worker] INFO  NGListener - Start of the test ---> testlogin
+19:16:01.237 [Test worker] INFO  NGListener - Success test ---> testlogin
+19:16:01.242 [Test worker] INFO  TestBase - Finished test ---> testlogin
+19:16:01.244 [Test worker] INFO  TestBase - =====================================================================================================
+19:16:01.264 [Test worker] INFO  NGListener - Test finished

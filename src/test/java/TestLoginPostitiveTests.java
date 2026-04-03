@@ -8,13 +8,12 @@ import org.testng.annotations.Test;
 
 @Listeners(NGListener.class)
 public class TestLoginPostitiveTests extends TestBase {
-    @BeforeSuite
+    @BeforeMethod
     public void logout(){
         HelperUser user=new HelperUser(app.wd);
 
         if(user.user_logged()){
             user.loguot();
-            user.pause(10);
             Assert.assertTrue(user.isElementPresent(By.xpath("//a[@href='/login']")));
         }
 
