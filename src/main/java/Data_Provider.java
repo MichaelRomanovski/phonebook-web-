@@ -35,7 +35,7 @@ public class Data_Provider {
     }
 
     @DataProvider
-    public Iterator<Object[]> data_contact() throws IOException {
+    public Iterator<Object[]> data_new_contact() throws IOException {
         List<Object[]> list = new ArrayList<>();
         BufferedReader reader = new BufferedReader(
                 new FileReader("src/test/resources/add_contact_data.csv"));
@@ -43,16 +43,19 @@ public class Data_Provider {
         while ((line = reader.readLine()) != null) {
             if (line.trim().isEmpty()) continue;
             String[] split = line.split(",", -1);
-            if (split.length < 3) {
+            if (split.length < 6) {
                 System.out.println("Skipping bad line: " + line);
                 continue;}
             String type = split[0];
-            String email = split[1];
-            String password = split[2];
-            String expectedMessage = split.length > 3 ? split[3] : "";
+            String name = split[1];
+            String lastname = split[2];
+            String phone=split[3];
+            String email=split[4];
+            String address=split[5];
+            String added_contact = split.length > 6 ? split[6] : "";
             list.add(new Object[]{
                     type,
-                    User_model.builder().email(email).password(password).build(), expectedMessage});
+                    Contact_model.builder().name(name).last_name(lastname).phone(phone).email(email).address(address).build(), added_contact});
         }
         reader.close();
         return list.iterator();

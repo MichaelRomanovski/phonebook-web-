@@ -5,7 +5,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 public class testRegistrationNegative extends TestBase{
-    @BeforeSuite(alwaysRun = true)
+    @BeforeMethod(alwaysRun = true)
     public void logout(){
         HelperUser user=new HelperUser(app.wd);
         if(user.user_logged()){
